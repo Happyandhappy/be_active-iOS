@@ -17,10 +17,6 @@ iPhone 9.3+ , Apple Watch
 2. Frameworks - Foundation, UIKit, WatchKit, WatchConnectivity, HealthKit
 3. SwiftLint
 
-## Author
-
-* [Konstantin Khokhlov](https://ru.linkedin.com/in/const)
-
 ## License
 
 Copyright 2017.
